@@ -172,7 +172,7 @@ class LoginForm extends Component {
     const {isFormLogin} = this.state
 
     return (
-      <div className="registration-form-container">
+      <div className="login-form-container">
         <h1 className="form-title">LoginForm</h1>
         <div className="view-container">
           {isFormLogin
